@@ -1,0 +1,19 @@
+<resources>
+
+
+    <string name="app_name">Modern Art UI</string>
+
+    <string name="action_more_info">More Information</string>
+    <string name="text">Inspired by the works of artists such as Piet Mondrian and Ben Nicholson.\n\nClick below to learn more!</string>
+
+    <string name="not_now">Not now</string>
+    <string name="visit">Visit MOMA</string>
+
+    <color name="light_gray">#D3D3C2</color>
+    <color name="black">#000000</color>
+    <color name="light_green">#338833</color>
+    <color name="green">#107d24</color>
+    <color name="demi_green">#094b15</color>
+    <color name="dark_green">#031907</color>
+
+</resources>
